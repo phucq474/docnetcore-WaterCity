@@ -1,0 +1,616 @@
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.exe
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.deps.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.runtimeconfig.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.Io.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AsyncEnumerable.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Enums.NET.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.Http.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.DI.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\TimeZoneConverter.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.AssemblyReference.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfoInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfo.cs
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WaterCity.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WaterCity.WebApi.props
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WaterCity.WebApi.props
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WaterCity.WebApi.props
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\scopedcss\bundle\WaterCity.WebApi.styles.css
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CopyComplete
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\refint\WaterCity.WebApi.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.genruntimeconfig.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Web\WaterCity.WebApi\obj\Debug\net6.0\ref\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.json
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.exe
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.deps.json
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.runtimeconfig.json
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.Io.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AsyncEnumerable.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Enums.NET.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.Http.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.Core.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.DI.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\TimeZoneConverter.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.AssemblyReference.cache
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfoInputs.cache
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfo.cs
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CoreCompileInputs.cache
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WaterCity.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WaterCity.WebApi.props
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WaterCity.WebApi.props
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WaterCity.WebApi.props
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\scopedcss\bundle\WaterCity.WebApi.styles.css
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CopyComplete
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\refint\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.pdb
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.genruntimeconfig.cache
+D:\New folder\Amazing_intern\src\Web\WaterCity.WebApi\obj\Debug\net6.0\ref\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.exe
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.deps.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.runtimeconfig.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.Io.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AsyncEnumerable.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Enums.NET.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.Http.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.DI.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\TimeZoneConverter.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.AssemblyReference.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfoInputs.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfo.cs
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CoreCompileInputs.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WaterCity.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WaterCity.WebApi.props
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WaterCity.WebApi.props
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WaterCity.WebApi.props
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\scopedcss\bundle\WaterCity.WebApi.styles.css
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CopyComplete
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\refint\WaterCity.WebApi.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.genruntimeconfig.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\ref\WaterCity.WebApi.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.exe
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.deps.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.runtimeconfig.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.WebApi.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AngleSharp.Io.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AsyncEnumerable.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Enums.NET.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Flurl.Http.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Invedia.DI.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\TimeZoneConverter.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Mapper.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Repository.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\bin\Debug\net6.0\WaterCity.Service.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.AssemblyReference.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfoInputs.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.AssemblyInfo.cs
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WaterCity.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WaterCity.WebApi.props
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WaterCity.WebApi.props
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WaterCity.WebApi.props
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\scopedcss\bundle\WaterCity.WebApi.styles.css
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.csproj.CopyComplete
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\refint\WaterCity.WebApi.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\WaterCity.WebApi.genruntimeconfig.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Web\WaterCity.WebApi\obj\Debug\net6.0\ref\WaterCity.WebApi.dll

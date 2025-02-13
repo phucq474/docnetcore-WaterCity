@@ -1,0 +1,76 @@
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.deps.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.AssemblyReference.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfoInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfo.cs
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CopyComplete
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\refint\WaterCity.Mapper.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\ref\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.deps.json
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.pdb
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.AssemblyReference.cache
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfoInputs.cache
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfo.cs
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CoreCompileInputs.cache
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CopyComplete
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\refint\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.pdb
+D:\New folder\Amazing_intern\src\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\ref\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.deps.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.AssemblyReference.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfoInputs.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfo.cs
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CoreCompileInputs.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CopyComplete
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\refint\WaterCity.Mapper.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\ref\WaterCity.Mapper.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.deps.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Mapper.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\bin\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.AssemblyReference.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfoInputs.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.AssemblyInfo.cs
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.csproj.CopyComplete
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\refint\WaterCity.Mapper.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\WaterCity.Mapper.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Mapper\WaterCity.Mapper\obj\Debug\net6.0\ref\WaterCity.Mapper.dll

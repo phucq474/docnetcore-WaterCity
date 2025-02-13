@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYG41345w4LVYsJluTcj29uMdmD3TYTo0ipx8wJU9QMqUoM1j0wJ4ahswnSX29O9mr8B2c8SkTtJJXjOXh+kFQ==",
+  "success": false,
+  "projectFilePath": "D:\\AMAZING_BE_INTERN\\DemoAPI_QL_SP\\Service\\WaterCity.Contract.Service\\WaterCity.Contract.Service.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\HUIT_NAM4\\DOANTOTNGHIEP\\HOTEL_MANAGER\\packages' doesn't exist.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\HUIT_NAM4\\DOANTOTNGHIEP\\HOTEL_MANAGER\\packages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\HUIT_NAM4\\DOANTOTNGHIEP\\HOTEL_MANAGER\\packages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    }
+  ]
+}

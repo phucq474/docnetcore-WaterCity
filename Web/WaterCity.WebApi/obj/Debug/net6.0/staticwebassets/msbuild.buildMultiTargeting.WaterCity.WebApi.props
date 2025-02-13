@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WaterCity.WebApi.props" />
+</Project>

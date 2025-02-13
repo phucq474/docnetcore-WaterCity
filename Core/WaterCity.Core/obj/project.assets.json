@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AutoMapper >= 12.0.1",
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "Invedia.DI >= 2021.7.22.1",
+      "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
+      "Microsoft.Extensions.Configuration.Json >= 6.0.0",
+      "Microsoft.Extensions.Logging.Console >= 6.0.0",
+      "Newtonsoft.Json >= 13.0.1",
+      "Serilog.AspNetCore >= 6.1.0",
+      "Swashbuckle.AspNetCore >= 6.2.3",
+      "TimeZoneConverter >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tn080\\.nuget\\packages\\": {},
+    "E:\\DevExp\\Components\\Offline Packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\AMAZING_BE_INTERN\\DemoAPI_QL_SP\\Core\\WaterCity.Core\\WaterCity.Core.csproj",
+      "projectName": "WaterCity.Core",
+      "projectPath": "D:\\AMAZING_BE_INTERN\\DemoAPI_QL_SP\\Core\\WaterCity.Core\\WaterCity.Core.csproj",
+      "packagesPath": "C:\\Users\\tn080\\.nuget\\packages\\",
+      "outputPath": "D:\\AMAZING_BE_INTERN\\DemoAPI_QL_SP\\Core\\WaterCity.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\DevExp\\Components\\Offline Packages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tn080\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\HUIT_NAM4\\DOANTOTNGHIEP\\HOTEL_MANAGER\\packages": {},
+        "E:\\DevExp\\Components\\System\\Components\\Packages": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[12.0.1, )"
+          },
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[12.0.1, )"
+          },
+          "Invedia.DI": {
+            "target": "Package",
+            "version": "[2021.7.22.1, )"
+          },
+          "Microsoft.AspNetCore.Http.Abstractions": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "Microsoft.Extensions.Configuration.Json": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "Microsoft.Extensions.Logging.Console": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "Serilog.AspNetCore": {
+            "target": "Package",
+            "version": "[6.1.0, )"
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.2.3, )"
+          },
+          "TimeZoneConverter": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\HUIT_NAM4\\DOANTOTNGHIEP\\HOTEL_MANAGER\\packages' doesn't exist.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\HUIT_NAM4\\DOANTOTNGHIEP\\HOTEL_MANAGER\\packages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\HUIT_NAM4\\DOANTOTNGHIEP\\HOTEL_MANAGER\\packages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    }
+  ]
+}

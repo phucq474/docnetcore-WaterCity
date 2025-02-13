@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HBAj6Ivv0+DYtm2tZsjcsRiYE+hJ65XdJ8EEST/KKZ8=",
+  "Source": "WaterCity.WebApi",
+  "BasePath": "_content/WaterCity.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

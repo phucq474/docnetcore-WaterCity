@@ -1,0 +1,48 @@
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.deps.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.AssemblyReference.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfoInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfo.cs
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.CoreCompileInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\refint\WaterCity.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Core\WaterCity.Core\obj\Debug\net6.0\ref\WaterCity.Core.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.deps.json
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.AssemblyReference.cache
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfoInputs.cache
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfo.cs
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.CoreCompileInputs.cache
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\refint\WaterCity.Core.dll
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\src\Core\WaterCity.Core\obj\Debug\net6.0\ref\WaterCity.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.deps.json
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.AssemblyReference.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfoInputs.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfo.cs
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.CoreCompileInputs.cache
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\refint\WaterCity.Core.dll
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.pdb
+D:\New folder\Amazing_intern\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\ref\WaterCity.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.deps.json
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\bin\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.AssemblyReference.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfoInputs.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.AssemblyInfo.cs
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.csproj.CoreCompileInputs.cache
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\refint\WaterCity.Core.dll
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\tn080\OneDrive\Máy tính\AMAZING_BE_INTERN\DemoAPI_QL_SP\Core\WaterCity.Core\obj\Debug\net6.0\ref\WaterCity.Core.dll

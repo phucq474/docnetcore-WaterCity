@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="logs\**" />
+    <Content Remove="logs\**" />
+    <EmbeddedResource Remove="logs\**" />
+    <None Remove="logs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\WaterCity.Core\WaterCity.Core.csproj" />
+    <ProjectReference Include="..\..\Core\WaterCity.Mapper\WaterCity.Mapper\WaterCity.Mapper.csproj" />
+    <ProjectReference Include="..\..\Repository\WaterCity.Contract.Repository\WaterCity.Contract.Repository.csproj" />
+    <ProjectReference Include="..\..\Repository\WaterCity.Repository\WaterCity.Repository.csproj" />
+    <ProjectReference Include="..\..\Service\WaterCity.Contract.Service\WaterCity.Contract.Service.csproj" />
+    <ProjectReference Include="..\..\Service\WaterCity.Service\WaterCity.Service.csproj" />
+  </ItemGroup>
+
+</Project>
